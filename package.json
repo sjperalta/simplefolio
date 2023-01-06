@@ -5,6 +5,7 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
+    "deploy": "gh-pages -d dist"
     "start": "parcel",
     "build": "parcel build"
   },
